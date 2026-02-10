@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.pyl
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.manifest
+*.spec # PyInstaller spec file
+
+# PyInstaller
+app.spec
